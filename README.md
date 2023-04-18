@@ -8,4 +8,5 @@ How to use Chart BarMark, LineMark in SwiftUI  In this engaging video tutori
 
 After watching this video tutorial, you will be able to create effective and beautiful data visualizations using the latest tools in SwiftUI.
 
-![ChartPreview](https://user-images.githubusercontent.com/127990298/232527404-5fce89f1-8978-4430-a153-65bed360b320.jpg)
+
+![ChartPreview](https://user-images.githubusercontent.com/127990298/232866194-07087b76-670a-49ee-9605-1ea3bd7c2982.jpg)
